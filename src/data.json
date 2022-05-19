@@ -1,0 +1,20 @@
+{
+  "empanadas 🥟": [
+    { "name": "Osobuco", "cost": 170 },
+    { "name": "Pollo al Disco", "cost": 170 },
+    { "name": "Jamon y Queso", "cost": 170 },
+    { "name": "Carne Picada", "cost": 170 }
+  ],
+  "pizzas 🍕": [
+    { "cost": 1500, "name": "Muzzarella" },
+    { "cost": 1800, "name": "Especial" },
+    { "cost": 2000, "name": "Rucula y Jamon Crudo" },
+    { "cost": 2400, "name": "Panceta y Huevo Frito" }
+  ],
+  "platos 🍲": [
+    { "cost": 1500, "name": "Pollo al Disco" },
+    { "cost": 1800, "name": "Osobuco Braseado" },
+    { "cost": 2000, "name": "Goulash" },
+    { "cost": 2400, "name": "Pastel de Papas" }
+  ]
+}
