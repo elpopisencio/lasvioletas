@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/lasvioletas/static/css/main.31d6cfe0.css",
-    "main.js": "/lasvioletas/static/js/main.4242d1d3.js",
+    "main.js": "/lasvioletas/static/js/main.7973cade.js",
     "static/js/787.77cd19e5.chunk.js": "/lasvioletas/static/js/787.77cd19e5.chunk.js",
     "static/media/logo.svg": "/lasvioletas/static/media/logo.31ae3768b5cc7099087c1f134ca651dd.svg",
     "index.html": "/lasvioletas/index.html",
-    "main.4242d1d3.js.map": "/lasvioletas/static/js/main.4242d1d3.js.map",
+    "main.7973cade.js.map": "/lasvioletas/static/js/main.7973cade.js.map",
     "787.77cd19e5.chunk.js.map": "/lasvioletas/static/js/787.77cd19e5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.31d6cfe0.css",
-    "static/js/main.4242d1d3.js"
+    "static/js/main.7973cade.js"
   ]
 }
